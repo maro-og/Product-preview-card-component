@@ -95,6 +95,7 @@ li {
 }
 
 button {
+    font-weight: 700;
     padding: 1.3rem;
     width: 100%;
     border: none;
